@@ -26,7 +26,7 @@ status-website:
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  introTitle: "Mustard Leaf"
   introMessage: Mustard Leaf Sites - Uptime
   navbar:
     - title: Status
