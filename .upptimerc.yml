@@ -9,9 +9,9 @@ sites:
     url: https://haos.mustard-leaf.duckdns.org/
   - name: Mealie
     url: https://mealie.mustard-leaf.duckdns.org/
-  # - name: OCI APEX Instance
-  #   url: https://gabd18c80086d52-mustardleaf.adb.us-ashburn-1.oraclecloudapps.com/
-  #   icon: https://apex.oracle.com/assets/media/icons/favicon.ico
+  - name: OCI APEX Instance
+    url: https://gabd18c80086d52-mustardleaf.adb.us-ashburn-1.oraclecloudapps.com/
+    icon: https://apex.oracle.com/assets/media/icons/favicon.ico
   
   # - name: IPv6 test
   #   url: forwardemail.net
