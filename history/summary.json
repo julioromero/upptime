@@ -42,19 +42,19 @@
     "url": "https://mealie.mustard-leaf.duckdns.org/",
     "icon": "https://icons.duckduckgo.com/ip3/mealie.mustard-leaf.duckdns.org.ico",
     "slug": "mealie",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2032,
-    "timeDay": 596,
-    "timeWeek": 2032,
-    "timeMonth": 2032,
-    "timeYear": 2032,
+    "status": "up",
+    "uptime": "99.80%",
+    "uptimeDay": "99.41%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.80%",
+    "time": 3007,
+    "timeDay": 5215,
+    "timeWeek": 3007,
+    "timeMonth": 3007,
+    "timeYear": 3007,
     "dailyMinutesDown": {
-      "2024-11-21": 0
+      "2024-11-21": 9
     }
   },
   {
