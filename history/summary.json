@@ -24,19 +24,19 @@
     "url": "https://haos.mustard-leaf.duckdns.org/",
     "icon": "https://icons.duckduckgo.com/ip3/haos.mustard-leaf.duckdns.org.ico",
     "slug": "haos",
-    "status": "down",
-    "uptime": "99.75%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.75%",
-    "uptimeYear": "99.75%",
-    "time": 2726,
-    "timeDay": 291,
-    "timeWeek": 2726,
-    "timeMonth": 2726,
-    "timeYear": 2726,
+    "status": "up",
+    "uptime": "99.56%",
+    "uptimeDay": "98.68%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "99.56%",
+    "uptimeYear": "99.56%",
+    "time": 3363,
+    "timeDay": 3013,
+    "timeWeek": 3363,
+    "timeMonth": 3363,
+    "timeYear": 3363,
     "dailyMinutesDown": {
-      "2024-11-21": 11
+      "2024-11-21": 19
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://mealie.mustard-leaf.duckdns.org/",
     "icon": "https://icons.duckduckgo.com/ip3/mealie.mustard-leaf.duckdns.org.ico",
     "slug": "mealie",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2868,
-    "timeDay": 4063,
-    "timeWeek": 2868,
-    "timeMonth": 2868,
-    "timeYear": 2868,
+    "status": "up",
+    "uptime": "99.81%",
+    "uptimeDay": "99.41%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.81%",
+    "time": 3491,
+    "timeDay": 5322,
+    "timeWeek": 3491,
+    "timeMonth": 3491,
+    "timeYear": 3491,
     "dailyMinutesDown": {
-      "2024-11-21": 0
+      "2024-11-21": 9
     }
   },
   {
