@@ -56,9 +56,9 @@
     "url": "https://mealie.mustard-leaf.duckdns.org/",
     "icon": "https://icons.duckduckgo.com/ip3/mealie.mustard-leaf.duckdns.org.ico",
     "slug": "mealie",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.72%",
     "uptimeYear": "99.77%",
@@ -68,6 +68,7 @@
     "timeMonth": 1418,
     "timeYear": 1745,
     "dailyMinutesDown": {
+      "2024-12-26": 0,
       "2024-12-19": 48,
       "2024-12-02": 39,
       "2024-11-27": 38
