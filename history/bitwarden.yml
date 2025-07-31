@@ -1,7 +1,7 @@
 url: https://bitwarden.mustard-leaf.duckdns.org/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-07-31T17:28:04.220Z
+status: up
+code: 200
+responseTime: 154
+lastUpdated: 2025-07-31T17:46:52.604Z
 startTime: 2024-11-18T19:15:54.471Z
 generator: Upptime <https://github.com/upptime/upptime>
