@@ -4,19 +4,19 @@
     "url": "https://bitwarden.mustard-leaf.duckdns.org/",
     "icon": "https://icons.duckduckgo.com/ip3/bitwarden.mustard-leaf.duckdns.org.ico",
     "slug": "bitwarden",
-    "status": "up",
-    "uptime": "86.52%",
-    "uptimeDay": "98.01%",
-    "uptimeWeek": "97.32%",
-    "uptimeMonth": "96.03%",
-    "uptimeYear": "86.52%",
-    "time": 3103,
+    "status": "down",
+    "uptime": "86.53%",
+    "uptimeDay": "97.92%",
+    "uptimeWeek": "97.31%",
+    "uptimeMonth": "96.02%",
+    "uptimeYear": "86.53%",
+    "time": 3104,
     "timeDay": 5311,
     "timeWeek": 2254,
     "timeMonth": 3443,
-    "timeYear": 3103,
+    "timeYear": 3104,
     "dailyMinutesDown": {
-      "2025-09-30": 29,
+      "2025-09-30": 30,
       "2025-09-29": 241,
       "2025-09-23": 43,
       "2025-09-19": 225,
@@ -113,8 +113,7 @@
       "2024-12-19": 24,
       "2024-12-09": 18,
       "2024-12-02": 109,
-      "2024-11-27": 23,
-      "2024-11-22": 31
+      "2024-11-27": 23
     }
   },
   {
@@ -248,7 +247,7 @@
     "timeMonth": 4895,
     "timeYear": 3992,
     "dailyMinutesDown": {
-      "2025-09-30": 1275,
+      "2025-09-30": 1291,
       "2025-09-29": 1440,
       "2025-09-28": 1440,
       "2025-09-27": 1440,
