@@ -6,9 +6,9 @@
     "slug": "bitwarden",
     "status": "up",
     "uptime": "87.49%",
-    "uptimeDay": "99.06%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "98.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "98.04%",
     "uptimeYear": "87.49%",
     "time": 3182,
     "timeDay": 3623,
@@ -16,7 +16,6 @@
     "timeMonth": 3765,
     "timeYear": 3182,
     "dailyMinutesDown": {
-      "2025-10-25": 14,
       "2025-10-15": 83,
       "2025-10-13": 55,
       "2025-10-11": 111,
@@ -110,7 +109,8 @@
       "2025-03-01": 67,
       "2025-02-27": 21,
       "2025-02-23": 38,
-      "2025-02-11": 38
+      "2025-02-11": 38,
+      "2025-02-07": 29
     }
   },
   {
@@ -119,18 +119,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/haos.mustard-leaf.duckdns.org.ico",
     "slug": "haos",
     "status": "up",
-    "uptime": "87.48%",
-    "uptimeDay": "97.74%",
-    "uptimeWeek": "99.68%",
-    "uptimeMonth": "98.04%",
-    "uptimeYear": "87.48%",
+    "uptime": "87.49%",
+    "uptimeDay": "98.66%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "98.07%",
+    "uptimeYear": "87.49%",
     "time": 2962,
     "timeDay": 7507,
     "timeWeek": 4341,
     "timeMonth": 3286,
     "timeYear": 2962,
     "dailyMinutesDown": {
-      "2025-10-25": 32,
+      "2025-10-25": 19,
       "2025-10-15": 58,
       "2025-10-13": 55,
       "2025-10-11": 107,
@@ -231,7 +231,8 @@
       "2025-01-02": 48,
       "2024-12-26": 21,
       "2024-12-17": 17,
-      "2024-12-09": 51
+      "2024-12-09": 51,
+      "2024-12-02": 17
     }
   },
   {
@@ -240,18 +241,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/mealie.mustard-leaf.duckdns.org.ico",
     "slug": "mealie",
     "status": "down",
-    "uptime": "59.14%",
+    "uptime": "59.12%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "59.14%",
+    "uptimeYear": "59.12%",
     "time": 4079,
     "timeDay": 0,
     "timeWeek": 6565,
     "timeMonth": 5420,
     "timeYear": 4079,
     "dailyMinutesDown": {
-      "2025-10-25": 1410,
+      "2025-10-26": 75,
+      "2025-10-25": 1440,
       "2025-10-24": 1440,
       "2025-10-23": 1440,
       "2025-10-22": 1440,
